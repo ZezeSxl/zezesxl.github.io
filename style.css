@@ -11,7 +11,7 @@ scroll-behavior: smooth;
 }
 
 .inicio{
-    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),url("fondo.jpg");
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),url("https://rare-gallery.com/uploads/posts/508212-business-company.jpg");
 background-size: cover;
 background-position: center center;
 color: #fff;
@@ -169,7 +169,7 @@ border-radius: 50%;
 .habilidades{
     padding: 80px 0 100px 0;
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),url("habilidades.webp");
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),url("https://www.eleconomista.com.mx/__export/1652201927982/sites/eleconomista/img/2022/04/28/competencias-digitales-profesionales-en-mexico.jpg_1015297232.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
